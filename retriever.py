@@ -3,7 +3,7 @@ from langchain.vectorstores import FAISS
 from langchain.embeddings import HuggingFaceEmbeddings
 
 # Config paths
-INDEX_PATH = r"C:\22ad053\Navigate Labs\rag_mnc_insights\data\Transcripts\outputs\mnc_faiss_index"
+INDEX_PATH = r"C:Navigate Labs\rag_mnc_insights\data\Transcripts\outputs\mnc_faiss_index"
 
 # Load embedding model
 embedding_model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
