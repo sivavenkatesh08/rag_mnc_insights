@@ -5,7 +5,7 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.schema import Document
 
 # 📁 Path to transcripts folder
-BASE_DIR = Path(r"C:\22ad053\Navigate Labs\rag_mnc_insights\data\Transcripts")
+BASE_DIR = Path(r"C:Navigate Labs\rag_mnc_insights\data\Transcripts")
 
 # 🔨 Define text splitter
 text_splitter = RecursiveCharacterTextSplitter(
