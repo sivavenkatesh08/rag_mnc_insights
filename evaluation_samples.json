@@ -1,0 +1,47 @@
+[
+  {
+    "question": "What were the highlights of Microsoft's Q1 2020 earnings call?",
+    "expected_keywords": [
+      "Azure",
+      "cloud revenue",
+      "enterprise demand"
+    ],
+    "expected_answer": "Microsoft highlighted strong cloud revenue growth, driven by Azure and enterprise demand in Q1 2020."
+  },
+  {
+    "question": "Summarize Apple\u2019s Q2 2021 earnings call.",
+    "expected_keywords": [
+      "iPhone",
+      "services growth",
+      "record revenue"
+    ],
+    "expected_answer": "Apple reported record revenue driven by strong iPhone sales and growth in its services segment in Q2 2021."
+  },
+  {
+    "question": "What was Amazon\u2019s performance in Q4 2022?",
+    "expected_keywords": [
+      "AWS",
+      "holiday sales",
+      "operating income"
+    ],
+    "expected_answer": "Amazon reported a strong Q4 2022 with significant AWS growth, high holiday season sales, and solid operating income."
+  },
+  {
+    "question": "Describe Intel\u2019s Q3 2019 earnings highlights.",
+    "expected_keywords": [
+      "data center",
+      "PC demand",
+      "revenue growth"
+    ],
+    "expected_answer": "Intel saw strong data center performance and increased PC demand leading to revenue growth in Q3 2019."
+  },
+  {
+    "question": "How did Google perform in Q1 2023?",
+    "expected_keywords": [
+      "advertising",
+      "cloud",
+      "YouTube"
+    ],
+    "expected_answer": "Google experienced growth in advertising, cloud services, and YouTube revenues in Q1 2023."
+  }
+]
