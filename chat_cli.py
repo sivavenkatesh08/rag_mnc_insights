@@ -2,7 +2,7 @@ import argparse
 from rag_pipeline_gemini import rag_query, memory, load_memory_from_file, save_memory_to_file
 
 from pathlib import Path
-INDEX_PATH = Path(r"C:\22ad053\Navigate Labs\rag_mnc_insights\data\outputs\mnc_faiss_index")
+INDEX_PATH = Path(r"C:Navigate Labs\rag_mnc_insights\data\outputs\mnc_faiss_index")
 
 
 def print_history():
