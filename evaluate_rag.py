@@ -6,8 +6,8 @@ from difflib import SequenceMatcher
 from rag_pipeline_gemini import rag_query
 
 # Config
-INDEX_PATH = Path(r"C:\22ad053\Navigate Labs\rag_mnc_insights\data\outputs\mnc_faiss_index")
-EVAL_FILE = Path(r"C:\22ad053\Navigate Labs\rag_mnc_insights\evaluation_samples.json")
+INDEX_PATH = Path(r"C:Navigate Labs\rag_mnc_insights\data\outputs\mnc_faiss_index")
+EVAL_FILE = Path(r"C:Navigate Labs\rag_mnc_insights\evaluation_samples.json")
 
 
 def keyword_match(answer: str, keywords: List[str]) -> float:
